@@ -9,3 +9,9 @@
 - app_code:    software for computer application to control the nixie clock
 - mcu_code:    firmware for nixie clock micro-controller
 - schematics:  eagle circuit schematics and pcb designs including pdf versions
+
++ description
+
+design and implementation data for the nixie clock project, repository includes data relating to the hardware circuit schematic and board design, supplemented by production gerber files and 3d models
+
+code is available for the microcontroller firmware which runs the interface between the clock ic and the nixie tubes and also for the computer backend which will allow for administrative control of the clock
