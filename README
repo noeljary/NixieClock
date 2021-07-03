@@ -1,14 +1,10 @@
-# project:     nixie clock
-# categories:  hardware/software
-# designers:   noel jaryczewski
-# developers:  noel jaryczewski
-# status:      ongoing
+# NixieClock
 
 + contents
 
-- app_code:    software for computer application to control the nixie clock
 - mcu_code:    firmware for nixie clock micro-controller
 - schematics:  eagle circuit schematics and pcb designs including pdf versions
+- parts_lists: details of all parts required for circuits
 
 + description
 
